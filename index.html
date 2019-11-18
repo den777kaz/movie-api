@@ -30,7 +30,7 @@
 
     </div>
 
-    <script src="/js/javascript-fetch.js" type="text/javascript">
+    <script src="./js/javascript-fetch.js" type="text/javascript">
 
     </script>
 </body>
